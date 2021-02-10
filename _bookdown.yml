@@ -1,0 +1,5 @@
+book_filename: "anova_with_r"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "
